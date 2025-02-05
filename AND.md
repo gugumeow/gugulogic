@@ -3,4 +3,4 @@
 sudo apt update && sudo apt install -y qemu-system-riscv32
 
 #### 判斷二台電腦在相同網段。
-IP A && Gateway A == IP B && Gateway B
+(IP A && Gateway A) == (IP B && Gateway) B
