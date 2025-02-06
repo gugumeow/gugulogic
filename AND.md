@@ -3,4 +3,4 @@
 sudo apt update && sudo apt install -y qemu-system-riscv32
 
 #### 判斷AB二台電腦在相同網段。
-( IP A && SubnetMask A ) == ( IP B && SubnetMask B )
+( IP_A && SubnetMask_A ) == ( IP_B && SubnetMask_B )
