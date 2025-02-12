@@ -16,3 +16,6 @@
 |**D**|D0h|D1h|D2h|D3h|D4h|D5h|D6h|D7h|D8h|D9h|DAh|DBh|DCh|DDh|DEh|DFh|
 |**E**|E0h|E1h|E2h|E3h|E4h|E5h|E6h|E7h|E8h|E9h|EAh|EBh|ECh|EDh|EEh|EFh|
 |**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
+
+|HLh| ADD A, D| Notes |
+|---|---|---|
