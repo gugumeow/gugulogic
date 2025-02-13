@@ -20,3 +20,4 @@
 |HLh|Instruction| Notes |
 |---|---|---|
 |00h|NOP||
+|06h|MVI B, data||
