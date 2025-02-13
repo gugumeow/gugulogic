@@ -22,7 +22,9 @@
 |00h|NOP||
 |06h|MVI B, data||
 
-**Fibonacci Series**: Fib(10) = 55 (37H)
+**Fibonacci Series:**
+
+Fib(10) = 55 (37H)
 
 ```
         MVI C, 0AH       ; C = 10 (要計算 Fib(10))
