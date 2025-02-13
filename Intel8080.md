@@ -22,7 +22,7 @@
 |00h|NOP||
 |06h|MVI B, data||
 
-**Fibonacci Series:**
+# **Fibonacci Series:**
 
 Fib(10) = 55 (37H)
 
