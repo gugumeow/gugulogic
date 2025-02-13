@@ -26,7 +26,7 @@
 
 Fib(10) = 55 (37H)
 
-```
+```asm
         MVI C, 0AH       ; C = 10 (要計算 Fib(10))
         MVI B, 00H       ; B = Fib(0) = 0
         MVI A, 01H       ; A = Fib(1) = 1
