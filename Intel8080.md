@@ -21,3 +21,23 @@
 |---|---|---|
 |00h|NOP||
 |06h|MVI B, data||
+
+**Fibonacci Series**:Fib(10)
+
+```
+        MVI C, 0AH       ; C = 10 (要計算 Fib(10))
+        MVI B, 00H       ; B = Fib(0) = 0
+        MVI A, 01H       ; A = Fib(1) = 1
+
+        DCR C            ; C = C - 1 (因為 Fib(1) 已知，不需再計算)
+
+LOOP:   JZ DONE          ; 若 C == 0，結束
+        MOV H, A         ; H = A (暫存 Fib(n))
+        ADD B            ; A = A + B (計算 Fib(n) = Fib(n-1) + Fib(n-2))
+        MOV B, H         ; B = H (更新 Fib(n-1) = 原本的 A)
+        DCR C            ; C = C - 1
+        JMP LOOP         ; 繼續計算
+
+DONE:   HLT             ; 停止執行
+
+```
