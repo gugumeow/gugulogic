@@ -40,7 +40,7 @@ LOOP:   JZ DONE          ; 若 C == 0，結束
         DCR C            ; C = C - 1
         JMP LOOP         ; 繼續計算
 
-DONE:   HLT             ; 停止執行
+DONE:   HLT              ; 停止執行
 
 ```
 
