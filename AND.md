@@ -1,3 +1,12 @@
+#### True Table
+
+| A | B | Output (A AND B) |
+|---|---|------------------|
+| 0 | 0 | 0                |
+| 0 | 1 | 0                |
+| 1 | 0 | 0                |
+| 1 | 1 | 1                |
+
 #### 確保前一個指令成功執行後，才執行下一個指令。
 
 sudo apt update && sudo apt install -y qemu-system-riscv32
