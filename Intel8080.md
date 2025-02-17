@@ -1,4 +1,4 @@
-|<font color="blue">0E</font>
+<font color="blue">0E</font>
 |HLh| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**0**|00h|01h|02h|03h|04h|05h|06h|07h|08h|09h|0Ah|0Bh|0Ch|0Dh|<font color="blue">0E</font>|0Fh|
