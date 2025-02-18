@@ -28,35 +28,35 @@
 ### MVI：00 DDD 110
 
 #### 06
-00 000 110 -> MVI B, imm8
+00 000 110: MVI B, imm8
 
 #### 0E
 
-00 001 110 MVI C, imm8
+00 001 110: MVI C, imm8
 
 #### 16
 
-00 010 110 MVI D, imm8
+00 010 110: MVI D, imm8
 
 #### 1E
 
-00 011 110 MVI E, imm8
+00 011 110: MVI E, imm8
 
 #### 26
 
-00 100 110 MVI L, imm8
+00 100 110: MVI L, imm8
 
 #### 2E
 
-00 101 110 MVI H, imm8
+00 101 110: MVI H, imm8
 
 #### 36
 
-00 110 110 MVI M, imm8
+00 110 110: MVI M, imm8
 
 #### 3E
 
-00 111 110 MVI A, imm8
+00 111 110: MVI A, imm8
 
 
 # **Fibonacci Series:**
