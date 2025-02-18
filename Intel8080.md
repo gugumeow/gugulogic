@@ -25,7 +25,7 @@
 |**E**|E0h|E1h|E2h|E3h|E4h|E5h|E6h|E7h|E8h|E9h|EAh|EBh|ECh|EDh|EEh|EFh|
 |**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
 
-## MOV:
+## MOV: 01 DDD SSS
 
 #### 40
 
