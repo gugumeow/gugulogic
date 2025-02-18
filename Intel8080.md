@@ -2,7 +2,7 @@
 
 |HLh| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**0**|00h|01h|02h|03h|04h|05h|06h|07h|08h|09h|0Ah|0Bh|0Ch|0Dh|$\textcolor{aqua}{\textsf{0E}}$|0Fh|
+|**0**|00h|01h|02h|03h|04h|05h|06h|07h|08h|09h|0Ah|0Bh|0Ch|0Dh|$\textcolor{aqua}{\textsf{[0E}(#0E)}}$|0Fh|
 |**1**|10h|11h|12h|13h|14h|15h|16h|17h|18h|19h|1Ah|1Bh|1Ch|1Dh|1Eh|1Fh|
 |**2**|20h|21h|22h|23h|24h|25h|26h|27h|28h|29h|2Ah|2Bh|2Ch|2Dh|2Eh|2Fh|
 |**3**|30h|31h|32h|33h|34h|35h|36h|37h|38h|39h|3Ah|3Bh|3Ch|3Dh|3Eh|3Fh|
@@ -18,6 +18,14 @@
 |**D**|D0h|D1h|D2h|D3h|D4h|D5h|D6h|D7h|D8h|D9h|DAh|DBh|DCh|DDh|DEh|DFh|
 |**E**|E0h|E1h|E2h|E3h|E4h|E5h|E6h|E7h|E8h|E9h|EAh|EBh|ECh|EDh|EEh|EFh|
 |**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
+
+#### 0E
+
+MVI C, imm8
+
+#### 3E
+
+MVI A, imm8
 
 
 # **Fibonacci Series:**
