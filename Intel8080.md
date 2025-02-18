@@ -25,7 +25,15 @@
 |**E**|E0h|E1h|E2h|E3h|E4h|E5h|E6h|E7h|E8h|E9h|EAh|EBh|ECh|EDh|EEh|EFh|
 |**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
 
-### MVI：00 DDD 110
+## MOV:
+
+#### 40
+
+0100 0000: MOV B, B
+
+
+
+## MVI: 00 DDD 110
 
 #### 06
 00 000 110: MVI B, imm8
