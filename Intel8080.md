@@ -26,7 +26,7 @@
 |**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
 
 #### 0E
-
+0000 1110
 MVI C, imm8
 
 #### 3E
