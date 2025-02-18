@@ -2,7 +2,7 @@
 
 #### Anchor1
 
-[ToAnchor1](#Anchor1)
+[GoToAnchor1](#Anchor1)
 
 #### Intel 8080 Code
 
