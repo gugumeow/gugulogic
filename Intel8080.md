@@ -1,4 +1,4 @@
-#### $\textcolor{aqua}{\textsf{If color didn't works.}}$
+#### $\textcolor{aqua}{\textsf{If color didn't work.}}$
 
 #### Anchor1
 
