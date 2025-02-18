@@ -25,11 +25,53 @@
 |**E**|E0h|E1h|E2h|E3h|E4h|E5h|E6h|E7h|E8h|E9h|EAh|EBh|ECh|EDh|EEh|EFh|
 |**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
 
+### MVI
+
+#### 06
+
+0000 0110
+
+MVI B, imm8
+
 #### 0E
+
 0000 1110
+
 MVI C, imm8
 
+#### 16
+
+0001 0110
+
+MVI D, imm8
+
+#### 1E
+
+0001 1110
+
+MVI E, imm8
+
+#### 26
+
+0010 0110
+
+MVI L, imm8
+
+#### 2E
+
+0010 1110
+
+MVI H, imm8
+
+#### 36
+
+0011 0110
+
+MVI M, imm8
+
 #### 3E
+
+0011 1110
 
 MVI A, imm8
 
