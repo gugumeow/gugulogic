@@ -26,6 +26,8 @@
 |**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
 
 
+
+
 ## INX/DCX:
 
 #### 23
@@ -35,6 +37,7 @@
 #### 2B
 
 0010 1011: DCX HL
+
 
 
 ## MOV: 01 DDD SSS
@@ -102,7 +105,6 @@
 #### 4F
 
 01 001 111: MOV C, A
-
 
 
 
