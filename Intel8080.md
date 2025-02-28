@@ -4,7 +4,7 @@
 
 [GoToAnchor1](#Anchor1)
 
-## ［Intel 8080 Instruction Set](https://pastraiser.com/cpu/i8080/i8080_opcodes.html)
+## [Intel 8080 Instruction Set](https://pastraiser.com/cpu/i8080/i8080_opcodes.html)
 
 |HLh| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
