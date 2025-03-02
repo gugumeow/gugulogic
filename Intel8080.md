@@ -38,7 +38,15 @@
 
 0010 1011: DCX HL
 
+## Store/Load:
 
+#### 32
+
+0011 0010: STA addr16
+
+#### 3A
+
+0011 1010: LDA addr16
 
 ## MOV(HLT): 01 DDD SSS
 
