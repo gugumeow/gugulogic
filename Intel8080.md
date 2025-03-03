@@ -382,6 +382,10 @@ BF: 10 111 111: CMP A
 
 00 111 110: MVI A, imm8
 
+## JUMP
+
+
+
 
 # **Fibonacci Series:**
 
