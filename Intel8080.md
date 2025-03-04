@@ -384,7 +384,13 @@ BF: 10 111 111: CMP A
 
 ## JUMP
 
+#### C2
 
+1100 0010: JNZ addr16
+
+#### C3
+
+1100 0011: JMP addr16
 
 
 # **Fibonacci Series:**
