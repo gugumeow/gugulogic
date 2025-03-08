@@ -404,6 +404,10 @@ BF: 10 111 111: CMP A
 
 1100 0011: JMP addr16
 
+#### CA
+
+1100 1010: JZ addr16
+
 
 # **Fibonacci Series:**
 
