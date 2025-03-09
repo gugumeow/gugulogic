@@ -20,10 +20,10 @@
 |**9**|[90](#90-97)|[91](#90-97)|[92](#90-97)|[93](#90-97)|[94](#90-97)|[95](#90-97)|[96](#90-97)|[97](#90-97)|[98](#98-9F)|[99](#98-9F)|[9A](#98-9F)|[9B](#98-9F)|[9C](#98-9F)|[9D](#98-9F)|[9E](#98-9F)|[9F](#98-9F)|
 |**A**|[A0](#A0-A7)|[A1](#A0-A7)|[A2](#A0-A7)|[A3](#A0-A7)|[A4](#A0-A7)|[A5](#A0-A7)|[A6](#A0-A7)|[A7](#A0-A7)|[A8](#A8-AF)|[A9](#A8-AF)|[AA](#A8-AF)|[AB](#A8-AF)|[AC](#A8-AF)|[AD](#A8-AF)|[AE](#A8-AF)|[AF](#A8-AF)|
 |**B**|[B0](#B0-B7)|[B1](#B0-B7)|[B2](#B0-B7)|[B3](#B0-B7)|[B4](#B0-B7)|[B5](#B0-B7)|[B6](#B0-B7)|[B7](#B0-B7)|[B8](#B8-BF)|[B9](#B8-BF)|[BA](#B8-BF)|[BB](#B8-BF)|[BC](#B8-BF)|[BD](#B8-BF)|[BE](#B8-BF)|[BF](#B8-BF)|
-|**C**|C0h|C1h|[C2](#C2)|[C3](#C3)|C4h|C5h|C6h|C7h|C8h|C9h|CAh|CBh|CCh|CDh|CEh|CFh|
-|**D**|D0h|D1h|D2h|D3h|D4h|D5h|D6h|D7h|D8h|D9h|DAh|DBh|DCh|DDh|DEh|DFh|
-|**E**|E0h|E1h|E2h|E3h|E4h|E5h|E6h|E7h|E8h|E9h|EAh|EBh|ECh|EDh|EEh|EFh|
-|**F**|F0h|F1h|F2h|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
+|**C**|C0h|C1h|[C2](#C2)|[C3](#C3)|C4h|C5h|C6h|C7h|C8h|C9h|[CA](#CA)|CBh|CCh|CDh|CEh|CFh|
+|**D**|D0h|D1h|[D2](#D2)|D3h|D4h|D5h|D6h|D7h|D8h|D9h|DAh|DBh|DCh|DDh|DEh|DFh|
+|**E**|E0h|E1h|[E2](#E2)|E3h|E4h|E5h|E6h|E7h|E8h|E9h|EAh|EBh|ECh|EDh|EEh|EFh|
+|**F**|F0h|F1h|[F2](#F2)|F3h|F4h|F5h|F6h|F7h|F8h|F9h|FAh|FBh|FCh|FDh|FEh|FFh|
 
 ## RA order: BCDEHLMA
 
