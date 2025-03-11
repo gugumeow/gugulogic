@@ -411,6 +411,27 @@ BF: 10 111 111: CMP A
 
 # **Fibonacci Series:**
 
+''' C
+#include <stdio.h>
+
+// Fibonacci 函式（遞迴版）
+int fibonacci(int n) {
+    if (n <= 1) 
+        return n;
+    return fibonacci(n - 1) + fibonacci(n - 2);
+}
+
+int main() {
+    int num;
+    printf("輸入一個非負整數：");
+    scanf("%d", &num);
+
+    printf("Fibonacci(%d) = %d\n", num, fibonacci(num));
+    return 0;
+}
+'''
+
+
 Fib(10) = 55 (37H)
 
 | 記憶體位置 | 指令          | 機器碼 (Hex) | 說明                          |
