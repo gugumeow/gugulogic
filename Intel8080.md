@@ -411,7 +411,7 @@ BF: 10 111 111: CMP A
 
 # **Fibonacci Series:**
 
-''' C
+``` C
 #include <stdio.h>
 
 // Fibonacci 函式（遞迴版）
@@ -429,7 +429,7 @@ int main() {
     printf("Fibonacci(%d) = %d\n", num, fibonacci(num));
     return 0;
 }
-'''
+```
 
 
 Fib(10) = 55 (37H)
